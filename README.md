@@ -4,4 +4,4 @@ I was taking ASP.NET course from YouTube by [kudvenkat](https://www.youtube.com/
 
 ###1. Passing List from Controller to View
 In this module, there is a demonstration of passing list from Controller to View.
-!(https://github.com/khateeb321/ASP-MVC-HandsOn/tree/master/Screenshots/1.png)
+![Image](https://github.com/khateeb321/ASP-MVC-HandsOn/tree/master/Screenshots/1.png)
