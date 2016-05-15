@@ -1,0 +1,30 @@
+C:\Users\t-ahmkha\Documents\Visual Studio 2010\GitHub\ASP-MVC-HandsOn\Data Access using Entity Framework\Data Access using Entity Framework\bin\Data Access using Entity Framework.dll
+C:\Users\t-ahmkha\Documents\Visual Studio 2010\GitHub\ASP-MVC-HandsOn\Data Access using Entity Framework\Data Access using Entity Framework\bin\Data Access using Entity Framework.pdb
+C:\Users\t-ahmkha\Documents\Visual Studio 2010\GitHub\ASP-MVC-HandsOn\Data Access using Entity Framework\Data Access using Entity Framework\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\t-ahmkha\Documents\Visual Studio 2010\GitHub\ASP-MVC-HandsOn\Data Access using Entity Framework\Data Access using Entity Framework\bin\Newtonsoft.Json.dll
+C:\Users\t-ahmkha\Documents\Visual Studio 2010\GitHub\ASP-MVC-HandsOn\Data Access using Entity Framework\Data Access using Entity Framework\bin\System.Net.Http.dll
+C:\Users\t-ahmkha\Documents\Visual Studio 2010\GitHub\ASP-MVC-HandsOn\Data Access using Entity Framework\Data Access using Entity Framework\bin\System.Net.Http.Formatting.dll
+C:\Users\t-ahmkha\Documents\Visual Studio 2010\GitHub\ASP-MVC-HandsOn\Data Access using Entity Framework\Data Access using Entity Framework\bin\System.Net.Http.WebRequest.dll
+C:\Users\t-ahmkha\Documents\Visual Studio 2010\GitHub\ASP-MVC-HandsOn\Data Access using Entity Framework\Data Access using Entity Framework\bin\System.Web.Helpers.dll
+C:\Users\t-ahmkha\Documents\Visual Studio 2010\GitHub\ASP-MVC-HandsOn\Data Access using Entity Framework\Data Access using Entity Framework\bin\System.Web.Http.dll
+C:\Users\t-ahmkha\Documents\Visual Studio 2010\GitHub\ASP-MVC-HandsOn\Data Access using Entity Framework\Data Access using Entity Framework\bin\System.Web.Http.WebHost.dll
+C:\Users\t-ahmkha\Documents\Visual Studio 2010\GitHub\ASP-MVC-HandsOn\Data Access using Entity Framework\Data Access using Entity Framework\bin\System.Web.Mvc.dll
+C:\Users\t-ahmkha\Documents\Visual Studio 2010\GitHub\ASP-MVC-HandsOn\Data Access using Entity Framework\Data Access using Entity Framework\bin\System.Web.Razor.dll
+C:\Users\t-ahmkha\Documents\Visual Studio 2010\GitHub\ASP-MVC-HandsOn\Data Access using Entity Framework\Data Access using Entity Framework\bin\System.Web.WebPages.Deployment.dll
+C:\Users\t-ahmkha\Documents\Visual Studio 2010\GitHub\ASP-MVC-HandsOn\Data Access using Entity Framework\Data Access using Entity Framework\bin\System.Web.WebPages.dll
+C:\Users\t-ahmkha\Documents\Visual Studio 2010\GitHub\ASP-MVC-HandsOn\Data Access using Entity Framework\Data Access using Entity Framework\bin\System.Web.WebPages.Razor.dll
+C:\Users\t-ahmkha\Documents\Visual Studio 2010\GitHub\ASP-MVC-HandsOn\Data Access using Entity Framework\Data Access using Entity Framework\bin\Newtonsoft.Json.xml
+C:\Users\t-ahmkha\Documents\Visual Studio 2010\GitHub\ASP-MVC-HandsOn\Data Access using Entity Framework\Data Access using Entity Framework\bin\System.Net.Http.xml
+C:\Users\t-ahmkha\Documents\Visual Studio 2010\GitHub\ASP-MVC-HandsOn\Data Access using Entity Framework\Data Access using Entity Framework\bin\System.Net.Http.Formatting.xml
+C:\Users\t-ahmkha\Documents\Visual Studio 2010\GitHub\ASP-MVC-HandsOn\Data Access using Entity Framework\Data Access using Entity Framework\bin\System.Net.Http.WebRequest.xml
+C:\Users\t-ahmkha\Documents\Visual Studio 2010\GitHub\ASP-MVC-HandsOn\Data Access using Entity Framework\Data Access using Entity Framework\bin\System.Web.Helpers.xml
+C:\Users\t-ahmkha\Documents\Visual Studio 2010\GitHub\ASP-MVC-HandsOn\Data Access using Entity Framework\Data Access using Entity Framework\bin\System.Web.Http.xml
+C:\Users\t-ahmkha\Documents\Visual Studio 2010\GitHub\ASP-MVC-HandsOn\Data Access using Entity Framework\Data Access using Entity Framework\bin\System.Web.Http.WebHost.xml
+C:\Users\t-ahmkha\Documents\Visual Studio 2010\GitHub\ASP-MVC-HandsOn\Data Access using Entity Framework\Data Access using Entity Framework\bin\System.Web.Mvc.xml
+C:\Users\t-ahmkha\Documents\Visual Studio 2010\GitHub\ASP-MVC-HandsOn\Data Access using Entity Framework\Data Access using Entity Framework\bin\System.Web.Razor.xml
+C:\Users\t-ahmkha\Documents\Visual Studio 2010\GitHub\ASP-MVC-HandsOn\Data Access using Entity Framework\Data Access using Entity Framework\bin\System.Web.WebPages.xml
+C:\Users\t-ahmkha\Documents\Visual Studio 2010\GitHub\ASP-MVC-HandsOn\Data Access using Entity Framework\Data Access using Entity Framework\bin\System.Web.WebPages.Deployment.xml
+C:\Users\t-ahmkha\Documents\Visual Studio 2010\GitHub\ASP-MVC-HandsOn\Data Access using Entity Framework\Data Access using Entity Framework\bin\System.Web.WebPages.Razor.xml
+C:\Users\t-ahmkha\Documents\Visual Studio 2010\GitHub\ASP-MVC-HandsOn\Data Access using Entity Framework\Data Access using Entity Framework\obj\Debug\Data Access using Entity Framework.csprojResolveAssemblyReference.cache
+C:\Users\t-ahmkha\Documents\Visual Studio 2010\GitHub\ASP-MVC-HandsOn\Data Access using Entity Framework\Data Access using Entity Framework\obj\Debug\Data Access using Entity Framework.dll
+C:\Users\t-ahmkha\Documents\Visual Studio 2010\GitHub\ASP-MVC-HandsOn\Data Access using Entity Framework\Data Access using Entity Framework\obj\Debug\Data Access using Entity Framework.pdb
